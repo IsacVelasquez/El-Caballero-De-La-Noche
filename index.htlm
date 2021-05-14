@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+     	<title>EL CABALLERO DE LA NOCHE</title>
+      <style>#container {
+            width: 1340px;
+            margin: auto;
+            border: 1px solid rgb(0, 0, 0);
+      </style>
+    </head>
+    <div id="container">
+  <style>   
+    #batmanrobin{border: 5px ridge black;}   
+    #Detective{border: 5px ridge black;}      
+    #bobkane{border: 5px ridge black;} 
+    #bill{border: 5px ridge black;} 
+    #bill{border: 5px ridge black;} 
+    #joker{border: 5px ridge black;} 
+   span{color:blue;} 
+    #guason {float: right;width: 20%; margin-left: 10px;}
+    #tabla {background: rgb(230, 230, 230);width: 100%;height: 320px;overflow-x: hidden;}
+
+  </style>
+    <body background="f.jpg" style="z-index: 5;
+            left: 30px;">
+ 	
+    	<h1 style="text-align:center"> EL CABALLERO DE LA NOCHE</h1>
+    	<div align="center"><img src="logo.PNG" width="100" height="100"></div>
+<br> <b> 
+<ol>
+	<li><a href="#Introducción">Introducción</a></li>
+	<li><a href="#Historia">Historia</a></li>
+	<li><a href= "#Actores que interpretaron a Batman">Actores</a></li>
+	<li><a href= "#Villanos Importantes">Villanos</a></li>
+  <li><a href= "#Creadores">Creadores</a></li>
+  <li><a href= "#Coleccionistas">Coleccionista</a></li>
+  <li><a href= "#Curiosidades">Curiosidades</a></li>
+</ol>
+    	<br> <b>
+    	<h2 id="Introducción">Introducción</h2>
+			<img src="numero27.jpg" align="right"width="228" height="221" id="Detective">
+		</p></font>	
+    	<FONT SIZE=4><p> <b>Batman</b> (conocido inicialmente como Bat-Man y en español como el Hombre Murciélago) es un personaje creado por los estadounidenses <b>Bob Kane</b> y <b>Bill Finger</b>,13 y propiedad de <b>DC Comics</b>. Apareció por primera vez en la historia titulada «El caso del sindicato químico» de la revista <b>Detective Comics N.º 27</b>, lanzada por la editorial National Publications el 30 de marzo de 1939.</p>
+
+<br></b>
+
+    	<p><img src="batmanyrobin.jfif" align="left"width="128" height="121" id="batmanrobin"> <b>Batman</b> aparecio por primera vez en una serie de television por adaptacción <b>Televisa</b> en 1949 con un total de 15 capitulos, un total de 4 horas y 23 minutos  	</p>
+
+<br></b>
+<br></b>
+<br></b>
+	<h2 id="Historia">Historia</h2> 	
+<br></b>
+		<p><FONT SIZE=4>Si bien muchos indican que el nacimiento de Batman sucedió al momento de que sus padres fueron asesinados, el manto fue creado por Bruce Wayne luego de sus años de estudio y entrenamiento. Él se sentía incompleto, a pesar de tener todo para poder combatir el crimen.
+<br></b>
+		Fue una noche, sentado en su mansión, cuando recordó su miedo a los murciélagos al ver uno chocar contra su ventana. Su inspiración lo llevó a crear un traje basado en este animal con tecnología experimental, y salió por Gotham City en las noches a luchar contra el crimen.
+<br></b>
+<br></b>
+		Poco a poco, el superhéroe se convirtió en una leyenda viva de su ciudad, eliminando a los pequeños asaltantes por no poder hacer nada para enfrentarlo. Sin embargo, su aparición también llevó a otros criminales más peligrosos a tomar el liderazgo de la ciudad, contaminando a la misma con mafias y corrupción en los órganos gubernamentales.
+<br></b>
+<br></b>
+		Así aparecieron personajes como Catwoman, el Dr. Hugo Strange, Monster Men y el Joker. Este último se consagró como el eterno enemigo del ‘Hombre Murciélago’, teniendo más de un enfrentamiento en todas sus versiones y convirtiéndose sin duda en el villano más popular de DC Comics.
+<br></b>
+<br></b>
+		Pero no todos son enemigos de Batman. El personaje también es reconocido por fundar la Justice League (Liga de la Justicia) junto a otros grandes personalidades de DC Comics como Superman, The Flash, Aquaman y Wonder Woman (Mujer Maravilla), the “Outsiders” y entrenar a los diferentes Robin, su fiel discípulo.</font></p>
+<br></b>
+<br></b>
+  	<h2 id="Actores que interpretaron a Batman">Actores que interpretaron a Batman</h2>
+
+  	<ol>
+    <li><b>Robert Lowery</b>, Batman & Robin 1949. <br></b>En 1956 fue artista invitado en un episodio de Aventuras de Superman (la primera vez en que un actor de Batman actor compartía pantalla con un actor de Superman). </li>
+<br></b>
+
+	<li><b>Adam West</b>, Batman 1966-1968</li>
+
+<br></b>
+	<li> <b>Michael Keaton</b>, Batman 1989, Batman Returns, 1992  </li>
+<br></b>
+	<li><b>Val Kilmer</b>, Batman Forever, 1995</li>
+<br></b>
+	<li><b>George Clooney</b>, Batman y Robin 1998</li>
+<br></b>
+	<li> <b>Thomas Bruce </b>(Batman Comerciales OnStar, Birds Of Prey, 2000-2002)  </li>
+<br></b>
+	<li> <b>Christian Bale</b>, Batman Begins 2005, El caballero oscuro 2008, El caballero oscuro: la leyenda renace 2012 </li>
+<br></b>
+	<li> <b> Ben Affleck</b>, Batman vs Superman, Justice League, Justice League Zack  Snyder   </li>
+<br></b>
+	<li><b>Robert Pattinson</b>, The Batman  </li>
+  	</ol>
+<br></b>
+<br></b>
+	<h2 id= "Villanos Importantes">Villanos Importantes</h2>
+<div id="tabla">
+<table>
+       <thead>
+              <tr>
+                  <th>Nombre</th>
+                  <th>Descrpción</th>               
+              </tr>
+       </thead>
+          <tbody>
+              <tr>
+                  <td>Joker</td>
+                  <td>Si bien sus orígenes y rasgos han variado con el transcurso del tiempo, por lo general se le asocia con una personalidad psicópata con un humor sádico y retorcido, lo que le ha llevado a ser catalogado como la antítesis de Batman. Con la excepción de una etapa en la que mantuvo un rol de bromista simple.<br><b>
+
+                  <p><em>Source:<a href="https://youtu.be/ojwD5XLeMrM">Un Origen</a></em></p>
+                  </td>
+
+              </tr>
+              <tr>  
+                  <td>Gatúbela</td>
+                  <td>Es una ladrona de Gotham City que normalmente usa un traje ajustado de una sola pieza y usa un látigo como arma. Originalmente fue caracterizada como una supervillana y adversaria de Batman, pero desde la década de 1990 ha aparecido en una serie que la presenta como una antiheroína, a menudo haciendo cosas incorrectas por las razones correctas.<br><b>
+                  <p><em>Source:<a href="https://www.youtube.com/watch?v=BjsVuH1ntI0">Tal Vez te interese</a></em></p>
+                  </td>
+              </tr>
+              <tr>
+              	<td>Harley Quinn</td>
+              	<td>Quinn es principalmente reconocida como cómplice y novia del Joker. Originalmente, la Dra. Harleen Frances Quinzel era su psiquiatra en el manicomio Arkham (Gotham City) hasta que se enamoró de él y se convirtió en una supervillana a su servicio. En versiones más reciente, el personaje evolucionó a una antiheroína, rompió sus lazos con el Joker y se mudó a Coney Island (Nueva York). El nombre de Quinn es un juego de palabras que en inglés suena como «harlequin», referido al personaje de la comedia del arte arlequín. <br> <p><em>Source:<a href="https://batman.fandom.com/es/wiki/Harley_Quinn">Tal Vez te interese</a></em></p>
+              	</td>
+              </tr>
+              <tr>
+              	<td>El Acertijo</td> 
+
+              	<td>A diferencia de la mayor parte de los villanos de Batman, Riddler no es un asesino psicopático o con problemas mentales severos, solo es algo narcisista por su enorme ego, lo que hace que presuma de su superioridad intelectual ante Batman. Sus conflictos directos con Riddler son típicamente más cerebrales que físicos y generalmente implica derrotar al otro intelectualmente.<br> <p><em>Source:<a href="https://batman.fandom.com/es/wiki/Edward_Nigma">Tal Vez te interese</a></em></p></td>
+              </tr>	
+              <tr>
+              	<td>Dos Caras</td>
+              	<td>Una vez fue un sobresaliente fiscal de distrito de Ciudad Gótica, Harvey Dent está marcado horriblemente en el lado izquierdo de su cara después que el jefe de la mafia Sal Maroni lanza productos químicos ácidos en él durante un juicio en la corte. Posteriormente, se vuelve loco y adopta la personalidad de "Dos Caras", convirtiéndose en un criminal obsesionado con la dualidad y el conflicto entre el bien y el mal. En los últimos años, los escritores han retratado la obsesión de Dos-Caras con el azar y el destino como resultado de la esquizofrenia, el trastorno bipolar y el trastorno de identidad disociativo.<br><b><p><em>Source:<a href="https://youtu.be/vHfgQ2wIjGs">Escena de pelicula polemica</a></em></p></td>
+              </tr>
+              <tr>
+              	<td>El Pingüino </td>
+              	<td>A diferencia de la mayor parte de la galería de enemigos de Batman, el Pingüino está en control de sus acciones y está perfectamente cuerdo, características que le ayudan a mantener una relación única con el Caballero Oscuro. Su última caracterización lo representa como el dueño de un club nocturno, el cual es popular en el mundo criminal. Batman llega a tolerar sus operaciones siempre y cuando el Pingüino siga siendo uno de sus informantes. El emprendedor Pingüino a menudo vende propiedad robada o arregla permisos de salida de prisión – claro, por un precio considerable.
+
+				El Pingüino ha sido nombrado repetidamente uno de los mejores villanos de Batman y uno de los más grandes villanos de los cómics.<br><b><p><em>Source:<a href="https://youtu.be/jP7HeFQ8yD0">Evolución</a></em></p></td>
+              </tr>
+              <tr>
+              	<td>Bane</td>
+              	<td>El personaje suele ser representado como un adversario del superhéroe Batman y pertenece al colectivo de enemigos que conforman su galería central de villanos. Al poseer una mezcla de fuerza bruta e inteligencia excepcional, a Bane a menudo se le atribuye ser el único villano que ha roto al murciélago tanto física como mentalmente. También es hijo de otro de los enemigos de Batman, Rey Serpiente.<br><b> <p><em>Source:<a href="https://youtu.be/m6YeRTWEI4Y">Escena de Película</a></em></p></td>
+              </tr>
+        </tbody>
+</table>
+</div>
+    <h2 id="Creadores">Creadores</h2>
+    <br></b>
+    <h3><b>Bob Kane</b></h3>
+    <p> <img src="bobkane.jpg" align="right"width="208" height="201" id="bobkane"> Nacio el 24 de octubre de 1915 en Nueva York, y murio el 3 de noviembre de 1998 en Los Ángeles, California (83 años).<br></b><br></b>
+    fue un dibujante y escritor estadounidense de cómics, considerado como el creador del superhéroe Batman para DC Comics. Años más tarde, Kane reconoció que Bill Finger, escritor de su estudio, "contribuyó" en la creación del personaje.<br></b><br></b>
+    A comienzos de 1939, el éxito de Superman en Action Comics impulsó a los editores de National Publications (después DC Comics, ahora una subsidiaria de Time Warner) a pedir más superhéroes para sus títulos. En respuesta, Bob Kane creó un personaje llamado "Birdman" ("El Hombre Pájaro"), pero luego lo cambió por "Bat-Man". <br></b><br></b>Según Kane, entre sus influencias para la invención del personaje se encuentran la actuación de Douglas Fairbanks como el Zorro, el diagrama del ornitóptero de Leonardo Da Vinci y la película The Bat Whispers (1930), basada en la novela de misterio The Circular Staircase de Mary Rinehart.</p><br></b><br></b>
+    <h3><b>Bill Finger</b></h3>
+    <p><img src="bill.jfif" align="right"width="208" height="201" id="bill">  Nacio el 8 de febrero de 1914 en Denver,y murio el 18 de enero de 1974 en Manhattan, por causa de un Infarto agudo de miocardio.<br></b><br></b> Fue un escritor estadounidense, famoso por ser el cocreador del personaje Batman junto a Bob Kane. Su labor no fue debidamente reconocida en un principio, pero años más tarde Kane admitió que Finger fue "una fuerza que contribuye" en la creación del personaje, y el historiador de cómics Ron Goulart se ha referido a Batman como la "creación del artista Bob Kane y del escritor Bill Finger".<br></b><br></b>
+    Finger adicionalmente ayudó a crear enemigos de Batman como The Joker, El Pingüino, Catwoman, Dos Caras, Enigma, entre otros. También escribió muchas de las historias originales de Linterna Verde en los Años 1940 y pasaría a contribuir en el desarrollo de numerosas series de cómics. </p>
+    <br><b>
+    <br><b>
+
+
+
+  <h2 id= "Coleccionistas">Coleccionistas</h2>
+    <br><b>
+    <h3><b>Somchai Nitimongkolchai</b></h3>  
+
+    <p> Coleccionistas de artículos de cómics hay mucho alrededor del mundo, pero este tal vez sea uno de los más particulares. Se trata de Somchai Nitimongkolchai, hombre de Tailandia que desea tener la colección de artículos de Batman más grande del mundo. Dentro de su vasto conjunto de artículos podemos ver figuras, juguetes, un alcancía u una réplica en tamaño real del Batimóvil.</p>
+
+    <em>Source:<a href="https://www.youtube.com/watch?v=yw7Ub3h85fs&t=137s">Mira el Batimovil en tamaño real</a></em>
+    <br><b>
+    <br><b>
+    <br><b>
+    <h3><b> Kevin Silva</b></h3>
+
+    <p> Durante 45 años, el estadounidense Kevin Silva ha conseguido más 2.501 objetos coleccionables del personaje mas emblemático de DC comics, el caballero de la noche, Batman. Este amante del hombre murciélago comenzó su colección a los 5 años cuando le regalaron una lonchera con la imagen del justiciero emmascarado, cosa que hizo que se encendiera su pasión por el vigilante de Ciudad Gótica.
+
+    Kevin todavía se encuentra aumentando su colección, pero solo hasta el año pasado fue reconocido por los Récords Guinness como el mayor coleccionista de objetos de Batman, cuando sobrepasó con creces el récord del búlgaro Zdravko Genov, cuya cantidad se encontraba en 1.160.</p>
+    
+    <em>Source:<a href="https://www.youtube.com/watch?v=bh5W3cDbjUk">Mira la gran colección</a></em>
+
+    <br><b>
+    <br><b>
+    <br><b>
+    <h3><b>Iván Marín</b></h3>
+
+    <p>El reconocido comediante colombiano Iván Marín, siempre ha dejado ver a sus seguidores el gusto que tiene por el personaje de DC Comics, Batman. Él cuenta que desde pequeño le gusta leer historias de superhéroes y siente una gran admiración por el vigilante de Ciudad Gótica, cuya verdadera identidad es la del multimillonario Bruce Wayne.</p>
+
+
+    <em>Source:<a href="https://www.youtube.com/watch?v=1hRWQMCpWZc">Mira esta pequeña estrevista</a></em>
+
+    <h2 id="Curiosidades">Curiosidades</h2>
+    <br><b>
+    <h3><b>El Caballero de la Noche</b></h3> 
+    <img id="guason" src="joker.gif" align="right"width="200" height="193" id="joker">
+
+    <p>En la pelicula"El Caballero de la Noche", existen las suficientes escenas que fueron improvisadas por diversos actores, pero hay dos escenas que fueron lo suficientemente importantes para que Heath Ledger recibiera el Oscar a mejor actor de reparto.
+    <br><b>  
+    La primera escena es una de las más caras de toda la grabación, que consistia en volar el edificio del departamento medico, donde la exploción termina fallando, o más bien se retrasa, donde el personaje improvisadamente hace tiempo para el estallido final y se apura para continuar la grabación. A continuación te dejo la escena completa.<br><b><br><b>  
+    <em>Source:<a href="https://www.youtube.com/watch?v=G_UtQ15fN90">La escena</a></em></p>
+    <br><b>  
+    <br><b> 
+    <p>La otra escena es la más polemica de toda la pelicula, que consiste en un tipo de entreviste de Batman por parte de Christian Bale al Guasón por parte de Heath Ledger, donde ambos se confrontan, y donde ambos improvisan. Te dejo la escena polemica.</p><br><b><br><b>  
+    <em>Source:<a href="https://www.youtube.com/watch?v=I8F6W3uPeUY">La escena</a></em></p>
+    <br><b> 
+
+    <h3><b>El Caballero de la Noche Asciende</b></h3> 
+
+    <img src="batgif.gif" align="left"width="200" height="230" >
+
+    <p> Tom Hardy  ha trabajado, entre otras, en las películas Bronson, Star Trek: némesis o Inception. Ha interpretado también a Tommy Riordan en Warrior, a Bane en The Dark Knight Rises, a Max Rockatansky, protagonista de Mad Max: Fury Road, y al simbionte Venom en la película homónima.<br><b><br><b>
+    
+    Curiosamente en la pelicula Batman el caballero de la noche asciende es que era tan grande la expectativa de Tom Hardy por trabajar en esta cinta que aceptó el papel de Bane sin siquiera leer el guion, lo único que sabía es que recibiría acceso sin precedentes a una amplia formación en combate y equipo de acrobacias.  Casi yb trabajo a ciegas.<br><b><br><b>
+    Curiosamente Tom Hardy es fan de Batman, por ello aceptó que al principio le fue difícil rodar las escenas de combate, ya que en su corazón le dolía golpear a su ídolo de infancia.<br><b><br><b>
+
+    Durante la producción de la película en Pittsburgh, un hombre local fue arrestado por intento de robo de un coche de policía sin marcar ; reclamó a las autoridades que él era sólo un actor y que su crimen fue en realidad una escena de la película..<br><b><br><b>
+
+   <em>Source:<a href="https://www.youtube.com/watch?v=m6YeRTWEI4Y">Una de las escenas más emblematicas de la pelicula</a></em></p>
+
+
+
+    </body> 
+     <style>
+    table {
+   width: 100%;
+   border: 1px solid #000;
+}
+th, td {
+   width: 25%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-collapse: collapse;
+   padding: 0.3em;
+   caption-side: bottom;
+}
+caption {
+   padding: 0.3em;
+   color: #fff;
+    background: #000;
+}
+th {
+   background: #eee;
+}
+        
+    </style>
+  
+
+	<style> 
+		h1, h2 {color: yellow;}
+		p, ol {color: black;}
+    h1, h2{background: black}
+    li, a{font-family: cursive;} 
+    p, br{font-family: verdana;}
+    tr, h1, h2{font-family: cursive;}
+    animate(logo.JPG)
+    
+    a:hover, a:active, a:focus {background-color: rgb(255, 0, 251);}  
+  
+
+
+
+	</style> 
+
+</html> 
